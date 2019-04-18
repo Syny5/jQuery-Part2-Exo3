@@ -1,0 +1,22 @@
+h1{
+  color: red;
+}
+
+h2{
+  color: blue;
+  text-decoration: underline;
+}
+
+#division_lien{
+  display: flex;
+  justify-content: center;
+}
+
+#show{
+  color: green;
+}
+
+#hide{
+  margin-left: 10px;
+  color: red;
+}
